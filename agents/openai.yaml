@@ -1,0 +1,4 @@
+interface:
+  display_name: "Email Structure Guardrail"
+  short_description: "Four-stage outreach with one final time-boxed ask"
+  default_prompt: "Use $email-structure-guardrail to draft or restructure my outreach into Hook, Proof, Pivot, and one final time-boxed question."
